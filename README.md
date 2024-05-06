@@ -4,6 +4,7 @@ Visualizations and maps about border crossings towards the US (1995-2024)
 The Bureau of Transportation Statistics (BTS) Border Crossing Data provide summary statistics for inbound crossings at the U.S.-Canada and the U.S.-Mexico border at the port level. Data are available for trucks, trains, containers, buses, personal vehicles, passengers, and pedestrians. Border crossing data are collected at ports of entry by U.S. Customs and Border Protection (CBP). The data reflect the number of vehicles, containers, passengers or pedestrians entering the United States.
 
 In this project, we draw insights on the nature of border crossing through data visualization with time plots, barplots and maps. We also spatially compare crossings and mass shootings.
+---
 
 ### Dataset ###
 The dataset was provided by Sahir Maharaj on Kaggle and can be found at this link: https://www.kaggle.com/datasets/sahirmaharajj/border-crossing-dataset.
@@ -18,7 +19,7 @@ The variables described are:
 - Latitude: the latitude coordinate of the port
 - Longitude: the longitude coordinate of the port
 - Point: a textual representation of the geographic point (latitude and longitude)
-
+---
 
 ### Findings ###
 The project reveals that there are overall more crossings on the US-Canada border than on the US-Mexican border. However, the overall value (people crossing) is higher on the Mexican border, all year round, across all years. The value of crossing tends to increase on the Canadian border during summer months.
